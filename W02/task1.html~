@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title> W02: task1 </title>
+  </head>
+  <body>
+    <script src="vec3.js"></script>
+    <script>
+      var v1 = new Vec3(5, 4, 8);
+      document.write("min = "+ v1.sum() "\n");
+      document.write("max = "+ v1.sum() );
+    </script>
+  </body>
+</html>
